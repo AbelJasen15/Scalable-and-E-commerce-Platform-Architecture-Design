@@ -4,4 +4,4 @@
 4. untuk s3 sendiri untuk meyimpan atau menampilkan data, foto produk dan dan backup.
 5. AWS elastic Cache berfungsi untuk meningkatkan kinerja aplikasi dengan menyimpan data yang sering diakses dalam memory.
 6. lalu untuk memonitoring menggunakan AWS Cloud Watch.
-<img[>[Screenshot 2024-06-20 133126.png](https://github.com/AbelJasen15/Scalable-and-E-commerce-Platform-Architecture-Design/blob/main/Screenshot%202024-06-20%20133126.png)](https://github.com/AbelJasen15/Scalable-and-E-commerce-Platform-Architecture-Design/blob/main/Screenshot%202024-06-20%20133126.png?raw=true)</img>
+<img>[[Screenshot 2024-06-20 133126.png](https://github.com/AbelJasen15/Scalable-and-E-commerce-Platform-Architecture-Design/blob/main/Screenshot%202024-06-20%20133126.png)](https://github.com/AbelJasen15/Scalable-and-E-commerce-Platform-Architecture-Design/blob/main/Screenshot%202024-06-20%20133126.png?raw=true)](https://github.com/AbelJasen15/Scalable-and-E-commerce-Platform-Architecture-Design/blob/main/Screenshot%202024-06-20%20133126.png?raw=true)</img>
